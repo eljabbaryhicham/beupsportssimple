@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Hammer';
+    src: url('HammerThin.eot');
+    src: url('HammerThin.eot?#iefix') format('embedded-opentype'),
+        url('HammerThin.woff2') format('woff2'),
+        url('HammerThin.woff') format('woff'),
+        url('HammerThin.ttf') format('truetype'),
+        url('HammerThin.svg#HammerThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hammer';
+    src: url('HammerThin_1.eot');
+    src: url('HammerThin_1.eot?#iefix') format('embedded-opentype'),
+        url('HammerThin_1.woff2') format('woff2'),
+        url('HammerThin_1.woff') format('woff'),
+        url('HammerThin_1.ttf') format('truetype'),
+        url('HammerThin_1.svg#HammerThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hammer';
+    src: url('HammerThin_2.eot');
+    src: url('HammerThin_2.eot?#iefix') format('embedded-opentype'),
+        url('HammerThin_2.woff2') format('woff2'),
+        url('HammerThin_2.woff') format('woff'),
+        url('HammerThin_2.ttf') format('truetype'),
+        url('HammerThin_2.svg#HammerThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
